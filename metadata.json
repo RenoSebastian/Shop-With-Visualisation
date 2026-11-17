@@ -1,0 +1,6 @@
+{
+  "name": "OFFLINE* — Interactive Fashion Showroom",
+  "description": "Minimalist digital fashion exhibition featuring nine curated streetwear looks, spatial display modes, interactive garment hotspots, and receipt-style shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
